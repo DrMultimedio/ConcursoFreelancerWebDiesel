@@ -1,0 +1,31 @@
+#header-landing{
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5) ), url("camion.jpeg");
+    background-position: center; 
+    background-size: cover;
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 0;
+	
+}
+#form-container{
+	background: rgba(180, 180, 180, 0.8);
+	padding: 5vh;
+}
+label{
+	float: left;
+    color: #212529;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: .5rem;
+}
+.service-box i{
+	font-size: 50px;
+}
+.section-heading{
+	padding: 5px;
+}
+
+#features{
+	background-color: rgba(210, 210, 210, 1); 
+}
